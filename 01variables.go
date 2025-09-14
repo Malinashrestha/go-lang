@@ -2,7 +2,7 @@ package main
 import "fmt"
 func main(){
 //var name string =  "golang"
-var name  = "Hello Mf"
+var name  = "Hello Malina"
 fmt.Println(name)
 // boolean
 var myage bool = false
